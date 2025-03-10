@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning: basic programming
+- 🤔 I’m looking for help with: getting started
+- 💬 Ask me about: any mechanical car-related stuff
+- 😄 Pronouns: he
+- ⚡ Fun fact: I'm a young mechanic who has just finished high school
 <!--
 **Qblock-jj/Qblock-jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
